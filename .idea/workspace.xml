@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20567b2f-4aa4-4069-92d2-d70fad878fc8" name="Default Changelist" comment="" />
+    <list default="true" id="20567b2f-4aa4-4069-92d2-d70fad878fc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.demo.DemoApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/demo/DemoApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/demo/DemoApplicationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TVuLA0psIGi9jfNgdsdqZlbTLC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
@@ -66,29 +78,33 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="442" y="246" width="471" height="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1573585255961" />
-    <state width="1320" height="185" key="GridCell.Tab.0.bottom" timestamp="1573586774550">
+    <state width="1320" height="185" key="GridCell.Tab.0.bottom" timestamp="1573662330090">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1573586774550" />
-    <state width="1320" height="185" key="GridCell.Tab.0.center" timestamp="1573586774549">
+    <state width="1320" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1573662330090" />
+    <state width="1320" height="185" key="GridCell.Tab.0.center" timestamp="1573662330090">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1573586774549" />
-    <state width="1320" height="185" key="GridCell.Tab.0.left" timestamp="1573586774549">
+    <state width="1320" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1573662330090" />
+    <state width="1320" height="185" key="GridCell.Tab.0.left" timestamp="1573662330089">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1573586774549" />
-    <state width="1320" height="185" key="GridCell.Tab.0.right" timestamp="1573586774549">
+    <state width="1320" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1573662330089" />
+    <state width="1320" height="185" key="GridCell.Tab.0.right" timestamp="1573662330090">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1573586774549" />
-    <state x="376" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1573560055398">
+    <state width="1320" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1573662330090" />
+    <state x="376" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1573729142853">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="376" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1573560055398" />
-    <state x="346" y="89" key="search.everywhere.popup" timestamp="1573558366463">
+    <state x="376" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1573729142853" />
+    <state x="300" y="92" width="766" height="582" key="find.popup" timestamp="1573653222914">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1573558366463" />
+    <state x="300" y="92" width="766" height="582" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1573653222914" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1573653237195">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1573653237195" />
   </component>
 </project>
